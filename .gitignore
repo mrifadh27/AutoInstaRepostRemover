@@ -1,0 +1,30 @@
+# Instagram Repost Remover - Git Ignore Rules
+
+# Sensitive Chrome profile data (contains your personal login cookies and session tokens!)
+chrome_user_data/
+*.session
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environments
+venv/
+.env/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo

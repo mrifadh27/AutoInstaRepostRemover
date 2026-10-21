@@ -1,0 +1,23 @@
+{
+    "target_url": "",
+    "speed_mode": "SAFE",
+    "delays_ms": {
+        "SAFE": {
+            "click_delay": 1500,
+            "modal_delay": 1800,
+            "next_delay": 1500
+        },
+        "FAST": {
+            "click_delay": 450,
+            "modal_delay": 500,
+            "next_delay": 400
+        },
+        "TURBO": {
+            "click_delay": 200,
+            "modal_delay": 250,
+            "next_delay": 200
+        }
+    },
+    "max_reposts_to_remove": 0,
+    "headless": false
+}

@@ -1,0 +1,2 @@
+# Instagram Repost Remover Requirements
+selenium>=4.15.0
