@@ -65,7 +65,7 @@ An intelligent, high-performance automation tool designed to bulk remove reposts
    ```
 2. Double-click **`run.bat`**.
 3. It will verify Python, install `selenium` if needed, and prompt you:
-   - Enter your **Instagram ID / Username** (e.g. `john_doe`), or just press **Enter** to auto-detect it after logging in!
+   - Enter your **Instagram ID / Username** (e.g. `mrifadh_27`), or just press **Enter** to auto-detect it after logging in!
 4. **Log in to Instagram** in the opened Chrome window.
 5. The tool will open your reposts tab and start removing reposts automatically!
 
